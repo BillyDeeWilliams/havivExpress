@@ -1,7 +1,11 @@
 {
   "name" : "FullMEANONE",
-  "version" : "0.0.1",
+  "version" : "0.0.2",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "~4.8.8",
+    "morgan": "~1.3.0",
+    "compression": "~1.0.11",
+    "body-parser": "~1.8.0",
+    "method-override": "~2.2.0"
  }
 }
